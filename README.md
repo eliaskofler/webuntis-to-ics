@@ -65,9 +65,10 @@ Available class shortcuts:
 
 | Shortcut | Internal ID |
 | -------- | ----------- |
+| 4grl     | 1871        |
 | 6ag      | 1895        |
 | 6ari     | 1898        |
-| 4grl     | 1871        |
+| ...      | ...         |
 
 ---
 
