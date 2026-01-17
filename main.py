@@ -10,7 +10,7 @@
 
 # Am Ende wird auf http://<server>:8080/timetable?class=<klassenName/klassenId> die .ics Datei zum Download freigegeben
 # Mögliche Klassen Parameter: 6ag, 6ari, 4grl oder direkt die interne Klassen-ID (z.B. 1898 für 6ari)
-# Sieht im iCloud Kalendar ungefähr so aus: https://imgur.com/a/u1eZCiQ
+# Sieht im iCloud Kalendar ungefähr so aus: https://i.imgur.com/EKLGAwp.jpeg
 
 import requests
 from ics import Calendar, Event

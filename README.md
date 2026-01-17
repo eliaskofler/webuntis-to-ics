@@ -96,7 +96,7 @@ https://<school>.webuntis.com/WebUntis/api/rest/view/v1/timetable/entries
 
 The resulting `.ics` file appears roughly like this in iCloud Calendar:
 
-![iCloud timetable example](https://imgur.com/a/u1eZCiQ)
+![iCloud timetable example](https://i.imgur.com/EKLGAwp.jpeg)
 
 ---
 
